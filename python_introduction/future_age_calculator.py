@@ -1,4 +1,4 @@
-current_Age = int(input(f"How old are you?"))
+current_Age = input(f"How old are you?")
 
 age = current_Age +27
 
